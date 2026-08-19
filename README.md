@@ -77,4 +77,3 @@ J'apprends en construisant des choses concrètes.
 
 N'hésitez pas à explorer mes repositories et à suivre mon parcours !
 - 😄 Pronouns: She/Elle
--->
