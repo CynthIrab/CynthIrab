@@ -4,7 +4,6 @@ Je m'appelle Cynthia et je suis étudiante en Cybersécurité & Réseaux.
 
 Je suis une personne naturellement souriante, curieuse et positive. J'aime comprendre comment les choses fonctionnent, expérimenter et surtout apprendre en pratiquant. Et lorsqu'il faut résoudre un problème, je sais devenir sérieuse et aller jusqu'au bout.
 
-<!--
 
 - 🔭 Sur quoi je travaille actuellement
 
