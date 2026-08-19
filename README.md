@@ -4,20 +4,19 @@ Je m'appelle Cynthia et je suis étudiante en Cybersécurité & Réseaux.
 
 Je suis une personne naturellement souriante, curieuse et positive. J'aime comprendre comment les choses fonctionnent, expérimenter et surtout apprendre en pratiquant. Et lorsqu'il faut résoudre un problème, je sais devenir sérieuse et aller jusqu'au bout.
 
+---
 
-
-****- 🔭 Sur quoi je travaille actuellement
-****
+## 🔭 Sur quoi je travaille actuellement
 En ce moment, je me concentre principalement sur deux projets :
 
-**💼 Mon stage
-**
+### 💼 Mon stage
+
 Je travaille actuellement sur le développement d'une application web, de sa conception jusqu'à sa mise en œuvre.
 
 Cette expérience me permet de mettre en pratique mes connaissances en développement, de travailler avec des outils professionnels et surtout d'apprendre à construire une solution répondant à un besoin réel.
 
-**🖥️ Mon Home Lab — Windows Server & Active Directory
-**
+### 🖥️ Mon Home Lab
+
 Je construis également mon propre laboratoire informatique virtualisé afin de pratiquer l'administration des systèmes et des réseaux.
 
 Mon lab comprend notamment :
@@ -31,19 +30,19 @@ Mon lab comprend notamment :
 
 L'objectif est de recréer progressivement une petite infrastructure d'entreprise et de documenter chaque étape sur GitHub.
 
+---
 
+## 🛠️ Outils & Technologies
 
-**- 🌱 Outils & technologies
-**
-**💻 Systèmes & Infrastructure
-**
+💻 Systèmes & Infrastructure
+
 Linux | Windows Server | Active Directory | DNS | DHCP
 
-🌐 **Réseaux**
+🌐 Réseaux
 
 TCP/IP | VLAN | Routage | Wireshark | Packet Tracer
 
-🔐 **Cybersécurité**
+🔐 Cybersécurité
 
 Nmap | Burp Suite | Kali Linux | Metasploit | SIEM
 
@@ -51,11 +50,13 @@ Nmap | Burp Suite | Kali Linux | Metasploit | SIEM
 
 VMware | Proxmox | Docker | Ansible | Git | GitHub
 
-💻 **Développement**
+💻 Développement
 
 Java | JavaScript | Node.js | Vue.js | MySQL | SQLite
 
-- 🌱 **Ce que j'apprends**
+---
+
+## 🌱 Ce que j'apprends
 
 En parallèle de mes projets, je développe progressivement mes compétences dans plusieurs domaines :
 
@@ -69,9 +70,9 @@ En parallèle de mes projets, je développe progressivement mes compétences dan
 
 J'apprends en construisant des choses concrètes.
 
+---
 
-
-- 📫** Me contacte**r
+## 📫 Me contacter
 💼 LinkedIn : https://www.linkedin.com/in/cynthiairabaruta/
 🐙 GitHub : @CynthIrab
 
