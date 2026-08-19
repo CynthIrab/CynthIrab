@@ -5,6 +5,7 @@ Je m'appelle Cynthia et je suis étudiante en Cybersécurité & Réseaux.
 Je suis une personne naturellement souriante, curieuse et positive. J'aime comprendre comment les choses fonctionnent, expérimenter et surtout apprendre en pratiquant. Et lorsqu'il faut résoudre un problème, je sais devenir sérieuse et aller jusqu'au bout.
 
 
+
 - 🔭 Sur quoi je travaille actuellement
 
 En ce moment, je me concentre principalement sur deux projets :
@@ -29,6 +30,8 @@ Mon lab comprend notamment :
 📦 Environnement virtualisé avec VMware
 
 L'objectif est de recréer progressivement une petite infrastructure d'entreprise et de documenter chaque étape sur GitHub.
+
+
 
 - 🌱 Outils & technologies
 💻 Systèmes & Infrastructure
@@ -65,12 +68,12 @@ En parallèle de mes projets, je développe progressivement mes compétences dan
 
 J'apprends en construisant des choses concrètes.
 
-- 🤔 I’m looking for help with ...
 
-- 💬 
+
 - 📫 Me contacter
-💼 LinkedIn : Mon LinkedIn
+💼 LinkedIn : https://www.linkedin.com/in/cynthiairabaruta/
 🐙 GitHub : @CynthIrab
+
 
 N'hésitez pas à explorer mes repositories et à suivre mon parcours !
 - 😄 Pronouns: She/Elle
